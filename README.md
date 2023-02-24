@@ -1,1 +1,3 @@
-# epidist
+# Epidist
+
+Given an epidemic does not grow exponentially because it is a stochastic process how does it grow? The enclosed source code derives a statistical distribution to give probabilities to the growth from zero to exponential. This code accompanies the journal paper ...
